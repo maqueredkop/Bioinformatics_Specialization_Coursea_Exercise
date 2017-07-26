@@ -1,0 +1,2 @@
+# Bioinformatics_Specialization_Coursea_Exercise
+contains UCSanDiego Bioinformatics_Specialization_Coursea_Exercise scripts 
