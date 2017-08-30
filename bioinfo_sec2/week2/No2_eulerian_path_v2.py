@@ -1,9 +1,9 @@
 
 import random
 
-#with open('test2.txt', 'r') as f:
+with open('test2.txt', 'r') as f:
 #with open('eulerian_path.txt', 'r') as f:
-with open('dataset_203_6.txt', 'r') as f:
+#with open('dataset_203_6.txt', 'r') as f:
     adjacency_list = dict()
     for line in f:
         line_list = line.split('->')

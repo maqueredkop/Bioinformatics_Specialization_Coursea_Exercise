@@ -4,8 +4,7 @@ import random
 
 ###########################################################################
 
-with open('test88.txt','r') as f:
-#with open('StringReconstructionProblem.txt','r') as f:
+with open('StringReconstructionProblem.txt','r') as f:
 #with open('dataset_203_7.txt','r') as f:
     kmer_list = []
     for  i in f:
